@@ -15,7 +15,7 @@ screams = ["ahhhh", "ahhhhhhhh", "ahhhhhhhhhhhhhhhhhhhhhhhhhhhhh", "ahhhhhhhhhhh
 def banner():
     console = Console()
 
-    console.print("=" * 100 + "\n")
+    console.print("=" * 110 + "\n")
 
     # display the name of the project
     name = pyfiglet.figlet_format("Auto  Nmap", font="epic")
@@ -35,7 +35,7 @@ def banner():
 
     
     
-    console.print("=" * 100 + "\n")
+    console.print("=" * 110 + "\n")
 
 
 
