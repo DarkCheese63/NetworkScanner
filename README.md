@@ -8,7 +8,6 @@ A command-line based network scanning utility built with Python. This applicatio
 * **Versatile Scan Modes:** Wraps standard Nmap arguments into user-friendly prompts. Supports Stealth (-sS), Aggressive (-A), Fast (-F), Version (-sV), OS (-O), and Ping (-sn) scans.
 * **Input Validation:** Built-in verification using the `ipaddress` module to ensure target IPs are properly formatted before initiating a scan, alongside automatic routing for `localhost`.
 * **Parsed Output:** Extracts data directly from the Nmap scan dictionary to display clean, readable results (Port states, probable Operating Systems, and service versions) without the clutter of raw Nmap output.
-* **Easter Eggs:** Includes a unique (and loud) error-handling loop if you fail to provide a valid exit command.
 
 ## Tech Stack
 
