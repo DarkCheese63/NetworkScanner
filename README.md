@@ -12,7 +12,7 @@ A command-line based network scanning utility built with Python. This applicatio
 
 ## Tech Stack
 
-* **Language:** Python 3.x
+* **Language:** Python 3.11.4
 * **Core Dependency:** Nmap (must be installed on the host machine)
 * **Network & Parsing:** `python-nmap`, `ipaddress`
 * **CLI Styling:** `rich`, `pyfiglet`
