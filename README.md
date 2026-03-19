@@ -45,5 +45,6 @@ This application acts as a simplified wrapper around the powerful Nmap engine:
 
 ## Screenshots
 
-<img width="999" height="509" alt="image" src="https://github.com/user-attachments/assets/369adbac-57d1-4304-8d10-99520028a060" />
+<img width="613" height="372" alt="image" src="https://github.com/user-attachments/assets/d6a045aa-d70d-4fdd-8be9-e5562029f989" />
+
 
